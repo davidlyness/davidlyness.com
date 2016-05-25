@@ -1,0 +1,57 @@
+.page,
+.post {
+  margin-bottom: 3em;
+
+  li + li {
+    margin-top: .25rem;
+  }
+}
+
+.post p2 {
+  margin-top: 10rem;
+}
+
+.post + .post:before {
+  content: "";
+  display: block;
+  height: 1px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 3em;
+  width: 80%;
+  background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));
+}
+
+.page-title,
+.post-title,
+.post-title a {
+  color: #303030;
+}
+.page-title,
+.post-title {
+  margin-top: 0;
+}
+
+.post-metadata {
+  float: left;
+  width: 100%;
+  display: block;
+}
+
+.post-date, .post-reading-time, .post-excerpt {
+  margin-bottom: 2rem;
+  color: #9a9a9a;
+}
+
+.post-reading-time {
+  float: right;
+}
+
+.post-highlight {
+  background-color: yellow;
+}
+
+article img {
+  margin-left: auto;
+  margin-right: auto;
+}

@@ -1,0 +1,24 @@
+name: lyness.io
+description: Thoughts go in, words come out.
+url: https://lyness.io
+google_analytics_id: UA-78184939-1
+
+paginate: 5
+permalink: :title
+
+sass:
+  style: :compressed
+
+author:
+  name: David Lyness
+  email: david@lyness.io
+  twitter: davidlyness
+
+twitter:
+  username: davidlyness
+
+gems:
+  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-seo-tag
+  - jekyll-sitemap
