@@ -1,1 +1,6 @@
-@import url(https://fonts.googleapis.com/css?family=Merriweather:300);
+@font-face {
+  font-family: 'Merriweather';
+  font-style: normal;
+  font-weight: 300;
+  src: local('Merriweather Light'), local('Merriweather-Light'), url(https://fonts.gstatic.com/s/merriweather/v13/ZvcMqxEwPfh2qDWBPxn6nrsKtFnhOiVZh9MDlvO1Vys.woff2) format('woff2'), url(https://fonts.gstatic.com/s/merriweather/v13/ZvcMqxEwPfh2qDWBPxn6nmB7wJ9CoPCp9n30ZBThZ1I.woff) format('woff');
+}
