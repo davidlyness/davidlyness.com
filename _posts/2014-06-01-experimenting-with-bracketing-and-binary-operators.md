@@ -2,6 +2,7 @@
 layout: post
 title: Experimenting with bracketing and binary operators
 excerpt: Combining parentheses and binary operators to calculate arithmetic properties, and reasoning about their recurrence relations and generic closed forms.
+redirect_from: /experimenting-bracketing-binary-operators
 ---
 
 ## Introduction

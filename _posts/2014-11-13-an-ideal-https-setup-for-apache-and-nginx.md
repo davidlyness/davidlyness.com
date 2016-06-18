@@ -2,6 +2,7 @@
 layout: post
 title: An Ideal HTTPS setup for Apache and Nginx
 excerpt: Up-to-date Apache and Nginx SSL/TLS configurations to secure your website and protect your visitors using HTTPS.
+redirect_from: /ideal-https-configuration-nginx-web-servers
 ---
 
 Now more than ever, it’s imperative that we know when we’re using the Internet securely. With an ever-increasing amount of business being conducted online, even a small issue with the way a web server is configured could result in untold financial and reputational damage for a company, or a breach of someone’s most private information.

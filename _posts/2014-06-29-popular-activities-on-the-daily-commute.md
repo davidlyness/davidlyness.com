@@ -2,6 +2,7 @@
 layout: post
 title: Popular activities on the daily commute
 excerpt: An analysis of the most popular activities during Londoners' daily commute to and from work.
+redirect_from: /popular-activities-daily-commute
 ---
 
 ## Premise
