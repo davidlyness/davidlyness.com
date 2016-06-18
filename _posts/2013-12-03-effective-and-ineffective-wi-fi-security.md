@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Effective and ineffective Wi-Fi security
+redirect_from: /effective-ineffective-wi-fi-security
 excerpt: Which methods to secure a Wi-Fi network actually work — and which are just bumps on the road to an attacker gaining full access to your private network?
 ---
 
