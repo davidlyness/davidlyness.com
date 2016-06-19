@@ -72,6 +72,6 @@ if ($scheme = http) {
 }
  {% endhighlight %}
 
-Check out the [configuration on GitHub](https://github.com/davidlyness/nginx-configuration), where you can find an always-up-to-date version to make sure you stay current as the security landscape evolves. You can also find a thorough explanation for what is included in the configuration and why.
+Check out the [configuration on GitHub](https://gist.github.com/davidlyness/b528684fcb79d954efae0d04558341c0), where you can find an always-up-to-date version to make sure you stay current as the security landscape evolves. You can also find a thorough explanation for what is included in the configuration and why.
 
 This website is run on an Nginx server using the above configuration, which manages to achieve an [A+ rating on SSL Labs](https://www.ssllabs.com/ssltest/analyze.html?d=davidlyness.com) while still maintaining support for the widest possible range of browsers. The only ones that are incompatible with this configuration are Java 6 (which was EOL’ed in February 2003) and IE6/IE8 on Windows XP (which was EOL’ed in April 2014).
