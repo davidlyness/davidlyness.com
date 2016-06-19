@@ -7,7 +7,7 @@ redirect_from: /experimenting-bracketing-binary-operators
 
 ## Introduction
 
-(Note — the code used to generate all data in this article can be found on [GitHub](https://github.com/davidlyness/pyDigits/blob/master/main.py).)
+(Note — the code used to generate all data in this article can be found on [GitHub](https://gist.github.com/davidlyness/70703d4fca9d7e40a2403eaee9aa63cd).)
 
 I've been experimenting with combinations of bracketing and binary operators recently, and came across some interesting patterns.
 
