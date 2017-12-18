@@ -23,3 +23,5 @@ plugins:
   - jekyll-redirect-from
   - jekyll-seo-tag
   - jekyll-sitemap
+
+theme: jekyll-theme-slate
