@@ -2,11 +2,12 @@
 layout: post
 title: Experimenting with bracketing and binary operators
 excerpt: Combining parentheses and binary operators to calculate arithmetic properties, and reasoning about their recurrence relations and generic closed forms.
+redirect_from: /experimenting-bracketing-binary-operators
 ---
 
 ## Introduction
 
-(Note — the code used to generate all data in this article can be found on [GitHub](https://github.com/davidlyness/pyDigits/blob/master/main.py).)
+(Note — the code used to generate all data in this article can be found on [GitHub](https://gist.github.com/davidlyness/087bd87b53656445fcfcf8bbbf7dedce).)
 
 I've been experimenting with combinations of bracketing and binary operators recently, and came across some interesting patterns.
 

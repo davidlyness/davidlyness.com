@@ -17,8 +17,11 @@ author:
 twitter:
   username: davidlyness
 
-gems:
+plugins:
   - jekyll-feed
   - jekyll-paginate
+  - jekyll-redirect-from
   - jekyll-seo-tag
   - jekyll-sitemap
+
+theme: jekyll-theme-slate

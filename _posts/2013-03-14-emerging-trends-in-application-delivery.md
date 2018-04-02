@@ -2,6 +2,7 @@
 layout: post
 title: Emerging trends in application delivery
 excerpt: A look back at how application delivery has evolved, and how we can expect it to change in the coming years.
+redirect_from: /emerging-trends-application-delivery
 ---
 
 I've been contemplating the evolution of application delivery trends and the direction the technology industry could take in the next few years.

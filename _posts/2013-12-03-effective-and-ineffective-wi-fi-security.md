@@ -2,6 +2,7 @@
 layout: post
 title: Effective and ineffective Wi-Fi security
 excerpt: Which methods to secure a Wi-Fi network actually work — and which are just bumps on the road to an attacker gaining full access to your private network?
+redirect_from: /effective-ineffective-wi-fi-security
 ---
 
 Modern Wi-Fi access points have a plethora of features available to you for securing your wireless network. Unfortunately, only a few of these are effective at actually stopping sophisticated network intruders with any level of success.
