@@ -1,7 +1,7 @@
 User-agent: ia_archiver
 Disallow: /
 
-SITEMAP: https://lyness.io/sitemap.xml
+SITEMAP: https://davidlyness.com/sitemap.xml
 
 # 1) A robot may not injure a human being or, through inaction, allow a human being to come to harm.
 # 2) A robot must obey any orders given to it by human beings, except where such orders would conflict with the First Law.
