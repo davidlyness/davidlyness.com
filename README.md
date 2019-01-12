@@ -1,1 +1,1 @@
-The source code for [lyness.io](https://lyness.io).
+The source code for [davidlyness.com](https://davidlyness.com).
