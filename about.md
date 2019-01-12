@@ -18,4 +18,4 @@ You can find me on:
 
 You can also contact me at <a href="mailto:{{ site.author.email }}">{{ site.author.email }}</a>.
 
-The code used to generate this website is [available on GitHub](https://github.com/davidlyness/lyness.io).
+The code used to generate this website is [available on GitHub](https://github.com/davidlyness/davidlyness.com).
